@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+css
+drafts
+app/__pycache__
